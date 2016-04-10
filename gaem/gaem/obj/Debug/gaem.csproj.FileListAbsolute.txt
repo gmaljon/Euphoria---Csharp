@@ -1,0 +1,9 @@
+c:\users\boyet1\documents\visual studio 2015\Projects\gaem\gaem\bin\Debug\gaem.exe.config
+c:\users\boyet1\documents\visual studio 2015\Projects\gaem\gaem\bin\Debug\gaem.exe
+c:\users\boyet1\documents\visual studio 2015\Projects\gaem\gaem\bin\Debug\gaem.pdb
+c:\users\boyet1\documents\visual studio 2015\Projects\gaem\gaem\obj\Debug\gaem.Form1.resources
+c:\users\boyet1\documents\visual studio 2015\Projects\gaem\gaem\obj\Debug\gaem.Properties.Resources.resources
+c:\users\boyet1\documents\visual studio 2015\Projects\gaem\gaem\obj\Debug\gaem.csproj.GenerateResource.Cache
+c:\users\boyet1\documents\visual studio 2015\Projects\gaem\gaem\obj\Debug\gaem.exe
+c:\users\boyet1\documents\visual studio 2015\Projects\gaem\gaem\obj\Debug\gaem.pdb
+C:\Users\Boyet1\Documents\Visual Studio 2015\Projects\gaem\gaem\obj\Debug\gaem.csprojResolveAssemblyReference.cache
